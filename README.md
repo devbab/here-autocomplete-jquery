@@ -234,7 +234,7 @@ You may find the two files index.html and index.js on [Github](https://github.co
 
 ## Happy coding !
 
-[Chris Hamaide](christophe.hamaide@here.com)
+[Chris Hamaide](mailto:christophe.hamaide@here.com)
 
 *PS : Nic, you owe me one…*
 
